@@ -1,0 +1,24 @@
+{
+    "name": "sandipweb/ssoenabled",
+    "description": "Check SSO enable or not from customer group",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "Magemonkey",
+    "authors": [
+        {
+            "name": "Sandip Dutt",
+            "email": "sandipd@webtechsystem.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/registration.php"
+        ]
+    },
+    "repositories": {
+        "0": {
+            "type": "vcs",
+            "url": "https://github.com/sandipweb/ssoenabled"
+        }
+    }
+}
