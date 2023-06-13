@@ -17,7 +17,7 @@
     },
     "repositories": {
         "0": {
-            "type": "vcs",
+            "type": "composer",
             "url": "https://github.com/sandipweb/ssoenabled"
         }
     }
