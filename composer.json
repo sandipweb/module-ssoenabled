@@ -6,7 +6,7 @@
     "license": "Magemonkey",
     "require": {
         "sandipweb/ssoenabled": "^1.0.0"
-    }
+    },
     "authors": [
         {
             "name": "Sandip Dutt",
