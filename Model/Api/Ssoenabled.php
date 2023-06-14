@@ -1,5 +1,5 @@
 <?php
-namespace Sandipweb\SsoEnabled\Model\Api;
+namespace Sandipweb\Ssoenabled\Model\Api;
 
 use Exception;
 use Magento\Customer\Api\CustomerRepositoryInterface;

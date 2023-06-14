@@ -1,5 +1,5 @@
 <?php
-namespace Sandipweb\SsoEnabled\Api;
+namespace Sandipweb\Ssoenabled\Api;
 
 interface SsoenabledInterface
 {
