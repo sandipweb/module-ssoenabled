@@ -1,5 +1,5 @@
 <?php
-namespace Learnship\SsoEnabled\Api;
+namespace Sandipweb\SsoEnabled\Api;
 
 interface SsoenabledInterface
 {

@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
-    <preference for="Learnship\SsoEnabled\Api\SsoenabledInterface" type="Learnship\SsoEnabled\Model\Api\Ssoenabled"/>
+    <preference for="Sandipweb\SsoEnabled\Api\SsoenabledInterface" type="Sandipweb\SsoEnabled\Model\Api\Ssoenabled"/>
 </config>

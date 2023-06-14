@@ -1,5 +1,5 @@
 <?php
-namespace Learnship\SsoEnabled\Model\Api;
+namespace Sandipweb\SsoEnabled\Model\Api;
 
 use Exception;
 use Magento\Customer\Api\CustomerRepositoryInterface;
